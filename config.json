@@ -1,0 +1,10 @@
+{
+  "version": "4.0.0",
+  "providers": {
+    "telkomsel": {"url": "https://my.telkomsel.com/prepaid-registration/landing-page"},
+    "indosat": {"url": "https://registrasi.ioh.co.id/"},
+    "xl": {"url": "https://registrasi.xlsmart.co.id/"},
+    "byu": {"url": "https://pidaw-webfront.cx.byu.id/registrasi"}
+  },
+  "notice": {"enabled": false, "text": ""}
+}
